@@ -10,11 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
    
-### Hi there, I'm ssh 👋
+### Hi there, I'm ypc 👋
 
 Now I'm working at gkestore Ltd as a web frontend developer.
 
-Hello 👋, it’s Max. 👨🏻‍💻
+Hello 👋, it’s ypc. 👨🏻‍💻
 Engineer & Designer in London, working at The Guardian 📰.
 Building for the web since 2007, my work is driven by elegance, simplicity and accessibility.
 
