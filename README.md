@@ -15,8 +15,8 @@ You can click the Preview link to take a look at your changes.
 Now I'm working at gkestore Ltd as a web frontend developer.
 
 Hello 👋, it’s ypc. 👨🏻‍💻
-Engineer & Designer in London, working at The Guardian 📰.
-Building for the web since 2007, my work is driven by elegance, simplicity and accessibility.
+Engineer & Designer in china, working at The Guardian 📰.
+Building for the web since 2018, my work is driven by elegance, simplicity and accessibility.
 
 Get in touch via email or telegram.
 
