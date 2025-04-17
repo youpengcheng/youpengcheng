@@ -16,7 +16,7 @@ Now I'm working at gkestore Ltd as a web frontend developer.
 
 Hello 👋, it’s ypc. 👨🏻‍💻
 Engineer & Designer in china, working at The Guardian 📰.
-Building for the web since 2018, my work is driven by elegance, simplicity and accessibility.
+Building automated AI+3D systems since 2018 - complex problems solved through elegant simplicity and accessible spatial intelligence
 
 Get in touch via email or telegram.
 
