@@ -23,6 +23,7 @@ Get in touch via email or telegram.
 掘金：[ssh](https://juejin.im/user/2330620350708823) / 知乎：[ssh](https://www.zhihu.com/people/ssh-fe) / 公众号：[前端从进阶到入院](https://user-gold-cdn.xitu.io/2020/4/5/17149cbcaa96ff26?imageView2/0/w/1280/h/960/format/webp/ignore-error/1) / LeetCode：[ssh](https://leetcode-cn.com/u/ssh-2/)
 
 **Languages and Tools:**  
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
